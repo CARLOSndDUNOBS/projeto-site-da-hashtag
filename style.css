@@ -1,0 +1,195 @@
+html {
+  background-color: rgba(6, 34, 34, 0.096);
+}
+
+h1,
+h2,
+h3,
+h4,
+p,
+li,
+a,
+span {
+  font-family: "Monsterrat", sans-serif;
+}
+
+/* marker{
+    font-variant-numeric: unset;
+} */
+.lista-do-cabecalho a {
+  font-size: 14px;
+  text-decoration: none;
+  text-decoration-line: none;
+  color: #112e61;
+}
+h1 {
+  color: #404040;
+  font-size: 45px;
+}
+.paragrafo-cabecalho {
+  color: #404040;
+  font-size: 19px;
+}
+.botao-cursos a {
+  color: #ffffff;
+  text-decoration: none;
+  text-decoration-line: none;
+}
+h2,
+.treinamentos-na-midia {
+  color: #404040;
+  font-size: 35px;
+}
+
+h2 span {
+  color: #7a40eb;
+}
+
+h3 {
+  font-size: 23px;
+  color: #ffffff;
+}
+.link-image-treinamentosGratuitos {
+  text-decoration: none;
+  text-decoration-line: none;
+}
+
+.link-box-treinamentosGratuitos {
+  font-size: 19px;
+  color: #404040;
+  text-decoration: none;
+  text-decoration-line: none;
+}
+/* .subtitulo-diferenciais {
+  font-size: 35px;
+  color: #ffffff;
+} */
+h2,
+strong {
+  font-weight: 600;
+}
+
+.paragrafo-diferenciais,
+.dado-formulário {
+  font-size: 19px;
+  color: #ffffff;
+}
+.subtitulo-home {
+  font-size: 24px;
+  color: #005e88;
+}
+.semi-bold {
+  font-weight: 600;
+}
+
+.caixa-segundaSecaoA,
+.caixa-segundaSecaoB,
+.caixa-segundaSecaoC {
+  font-size: 16px;
+  color: #404040;
+}
+.subtitulo-treinamentoCorporativo .link-treinamentoCorporativo {
+  font-size: 35px;
+}
+.link-treinamentoCorporativo {
+  text-decoration: none;
+  text-decoration-line: none;
+  color: #005e88;
+  font-weight: 700;
+}
+.subtitulo-diferenciais,
+.oQueFalam,
+.subtitulo-oQueFalam,
+.hastag-ajuda,
+.cadastre-se {
+  font-size: 35px;
+  color: #ffffff;
+}
+.videos-configs {
+  background: #7489af;
+  height: 170px;
+  border-radius: 20%;
+}
+.botao-vejaMaisDepoimentos a {
+  font-size: 24px;
+  color: #ffffff;
+  text-decoration: none;
+  text-decoration-line: none;
+}
+.imagem-post {
+  width: 500px;
+}
+.texto-postado-em-home {
+  font-size: 15px;
+  color: #404040;
+}
+.texto-postado-em-home a {
+  color: #f7a70c;
+  font-weight: 600;
+  /* text-decoration: none; */
+  text-decoration-line: none;
+}
+
+.link-blog {
+  text-decoration: none;
+  text-decoration-line: none;
+}
+.subtitulo-artigos-blog {
+  color: #404040;
+  font-size: 24px;
+}
+.texto-blog {
+  font-size: 24px;
+  color: #404040;
+  line-height: 1.1;
+}
+.sub-negrito {
+  font-weight: 600;
+}
+.hastag-ajuda span {
+  color: #ffffff;
+}
+.lista-hashtag-ajuda,
+.texto-hashtag-ajuda {
+  font-size: 19px;
+  line-height: 23px;
+}
+.link-hashtag-ajuda {
+  color: #008ff7;
+  font-weight: 600;
+  text-decoration: none;
+  text-decoration-line: underline;
+  text-align: justify;
+}
+#segundo-logo {
+  width: 180px;
+  min-width: 180px;
+}
+.titulo-rodape,
+.titulo-rodape-segundo-bloco,
+.titulo-formulário-newsletter {
+  color: #404040;
+  font-size: 22px;
+}
+.subtitulo-rodape {
+  color: #404040;
+  font-size: 20px;
+}
+.subtitulo-rodape2,
+.texto-formulário-newsletter {
+  color: #404040;
+  font-size: 18px;
+}
+.link-rodape {
+  color: #1a77a4;
+  font-size: 16px;
+}
+.texto-rodape {
+  font-size: 16px;
+  color: #404040;
+}
+.fo-oter {
+  font-weight: 900;
+  text-decoration: double;
+  text-decoration-line: underline;
+}
